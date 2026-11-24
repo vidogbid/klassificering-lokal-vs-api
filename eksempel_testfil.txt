@@ -1,0 +1,31 @@
+# 30 selvskrevne testbeskeder med facit. Format: JA | besked  eller  NEJ | besked
+JA | Hvad koster en færgebillet fra Rødby til Puttgarden i dag?
+JA | Hvordan bliver vejret i Nakskov i morgen?
+JA | Hvem vandt Superligakampen i går?
+JA | Hvad er status på Femern-tunnelen lige nu?
+JA | Hvornår har Netto i Nakskov åbent på søndag?
+JA | Hvad er den seneste version af Python?
+JA | Hvem er formand for HK Hovedstaden?
+JA | Hvad skete der på Folkemødet i år?
+JA | Er der problemer med S-togene i dag?
+JA | Hvad koster Mistral Small pr. million tokens i deres API?
+JA | Hvilke film går i biografen i Nakskov denne uge?
+JA | Hvad er kursen på euro lige nu?
+JA | Find anmeldelser af den nye Volvo EX30.
+JA | Hvad har regeringen meldt ud om AI i folkeskolen?
+JA | Hvad er status på NIS2-loven i Danmark?
+NEJ | Skriv et kort digt om en kat.
+NEJ | Oversæt 'Bill of Lading' til tysk.
+NEJ | Ret kommaerne i denne sætning: Når skibet kommer skal vi være klar.
+NEJ | Forklar forskellen på TCP og UDP.
+NEJ | Forklar kort, hvad GDPR går ud på.
+NEJ | Skriv en Python-funktion, der vender en streng om.
+NEJ | Hvad er 17 procent af 2.340?
+NEJ | Giv mig fem ideer til en overskrift om havnesikkerhed.
+NEJ | Hvorfor er himlen blå?
+NEJ | Gør teksten kortere: Vi skal på nuværende tidspunkt gøre opmærksom på, at mødet er rykket.
+NEJ | Hvem var Thomas Kingo?
+NEJ | Hvad betyder en Himalaya-klausul i et konnossement?
+NEJ | Lav en indkøbsliste til lasagne for fire.
+NEJ | Hvad er forskellen på 'både og' og 'enten eller'?
+NEJ | Hjælp mig med en sms til min chef om, at jeg er syg i dag.
